@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3409F221218CAF20005555ED /* StarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3409F220218CAF20005555ED /* StarViewController.swift */; };
 		3412734A218B60DD001CE81D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34127349218B60DD001CE81D /* AppDelegate.swift */; };
 		3412734C218B60DD001CE81D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3412734B218B60DD001CE81D /* ViewController.swift */; };
 		3412734F218B60DD001CE81D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3412734D218B60DD001CE81D /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3409F220218CAF20005555ED /* StarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarViewController.swift; sourceTree = "<group>"; };
 		34127346218B60DD001CE81D /* IntergalacticTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntergalacticTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34127349218B60DD001CE81D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3412734B218B60DD001CE81D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				34127349218B60DD001CE81D /* AppDelegate.swift */,
 				3412734B218B60DD001CE81D /* ViewController.swift */,
 				3412734D218B60DD001CE81D /* Main.storyboard */,
+				3409F220218CAF20005555ED /* StarViewController.swift */,
 				34127350218B60E0001CE81D /* Assets.xcassets */,
 				34127352218B60E0001CE81D /* LaunchScreen.storyboard */,
 				34127355218B60E0001CE81D /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3412734C218B60DD001CE81D /* ViewController.swift in Sources */,
+				3409F221218CAF20005555ED /* StarViewController.swift in Sources */,
 				3412734A218B60DD001CE81D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
